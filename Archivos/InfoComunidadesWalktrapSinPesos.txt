@@ -1,0 +1,2003 @@
+Comunidad 1:
+
+Organizaciones: ['14 CitizenScience' '3 Leibniz-Institute' '3rd party' ... 'zhangf'
+ 'zoldxvii and Hungarian Biodiversity Research Society' 'zoom']
+Personas: ['- Alan Irwin of CBScph' '- Claudia Appenzeller' '- John Reynolds' ...
+ 'von Windrichtung' 'von zuHause' 'Ángel Honrado']
+Proyectos: ['A Citizen Science project' 'BigO_Project' 'CADREProject' 'COSTprogramme'
+ 'CitSciOZ EuCitSci CitSciAssoc CitSciAsia LEARN_CitSci EUCitSciProject'
+ 'CitSciOz CitizenScience Bushfire Response Project'
+ 'Citizen Science & Arts Project'
+ 'Citizen Science Bushfire Project Finder' 'Citizen Science Program'
+ 'Citizen Science Project' 'Citizen Science Project CoKoNet'
+ 'Citizen Science Project on COVID19'
+ 'Citizen Science for Earth Systems Program Final Text and Due Dates Released'
+ 'CitizenScience Talent Programme' 'Climate Program Office'
+ 'Clump Scout Project' 'Data Quality Project'
+ 'Dignity Project Community Hub & Survey' 'ECSA EUCitSciProject webinar'
+ 'EUCitSciProject' 'Earth Project-Live' 'Education and Programs'
+ 'Electromagnetic Programs' 'Evolution and Ecology & Water Programs'
+ 'FedCitSci Project' 'GLOBEProgram' 'GLOBEProgram Partners' 'INOSProject'
+ 'INOSproject' 'IntarosProject' 'Launch of All of Us Research Program'
+ 'MICSproject' 'MPAEngage MEDProgramme' 'MammalnetProject'
+ 'Night Citizen Science Project' 'PericlesProject' 'Project'
+ 'Project 14648' 'Project Hermes' 'Project Plumage' 'Project Soothe'
+ 'Project Squirrel' 'ProjectDiscovery' 'ProjectGreco' 'ProjectLeo'
+ 'ProjectOfTheWeek' 'ProjectPHaEDRA' 'Rivers eDNA project' 'Santa Project'
+ 'Science Talent Programme'
+ 'The COVID-19 Citizen Science Project - SciStarter'
+ 'The Citizen Science Project Finder'
+ 'The DeptAgNews National Environmental Science Program'
+ 'The Dignity Project' 'The Dignity Project Community Hub & Survey'
+ 'The Earth Project' 'The Rainfall Rescue Project'
+ 'The hopkins_centre Dignity Project Community Hub & Survey'
+ 'This CitizenScience Talent Programme'
+ 'UCSF COVID19 Citizen Science Project' 'UN Environment Programme'
+ 'WatersProgramme' 'WeDo   Project' 'X-Snow Project'
+ 'a Citizen Science Project' 'a Research Project'
+ 'bearjob \\n Bear DNA Project/Bear Management Intern' 'cstrackproject'
+ 'einem Programm' 'iSCAPEproject' 'jgi Community Science Program'
+ 'lamaveproject' 'nurdlehunts greatnurdler & our Cotton Bud Project'
+ 'projectphaedra' 'sdu Talent Programme' 'the AIMsurv COSTprogramme'
+ 'the AIMsurv Training School COSTprogramme'
+ 'the AdvScientists Pika Project' 'the American Gut Project'
+ 'the Citizen Science Project' 'the Community Engaged Research Program'
+ 'the Community Science Program' 'the Earth Project'
+ 'the Edible Gardens Project' 'the EnvironmentRecovery Project'
+ 'the LooeIsland Seal Photo ID Project' 'the PericlesProject'
+ 'the RRING_PROJECT' 'the SouthWest Dolphin Project'
+ 'the inaturalist Environment Recovery Project' 'the oldweather Project'
+ 'the sdu citizenscience Talent Programme' 'the\xa0ROMI_EU_Project']
+
+
+Comunidad 2:
+
+Organizaciones: ['.CanLightSource' '0 Ecoli...CP4' '14 CitizenScience' ... 'yalenus' 'yyc'
+ 'zsllondonzoo']
+Personas: ['- Henry David Thoreau' '--Mary Ellen Hannibal' 'Abbotts' ... 'wildoz'
+ 'wildoz ozplants' 'yyc']
+Proyectos: ['5yr citizenscience project' 'Anniversary of The GLOBE Program'
+ 'Bay Community Flood Watch Project' 'CADREProject'
+ 'CitSciOZ EuCitSci CitSciAssoc CitSciAsia LEARN_CitSci EUCitSciProject'
+ 'Citizen Science & Arts Project' 'Citizen Science Project'
+ 'Citizen Science Project on Pulses Cooking Time'
+ 'Citizen Science Projects' 'CitizenScience Project Finder'
+ 'DYK the Budworm Tracker Program' 'EUCitSciProject' 'FamDogProject'
+ 'FedCitSci Project' 'GLOBEProgram' 'GLOBEProgram Mosquito Mapper'
+ 'HeritageFundUK Community Science Project'
+ 'Magicicada Brood Mapping Project' 'National Bat Monitoring Programme'
+ 'Night Citizen Science Project' 'PacingPandas Project'
+ 'Phase One of RagwortStudyProject' 'PlantNetProject'
+ 'Porpoise Photo-ID Project' 'Project FeederWatch' 'Project Finder'
+ 'Project Learning Tree' 'Project Squirrel' 'ProjectOfTheWeek'
+ 'ProjectStork'
+ 'QLD. \\n \\n Photo shared on our mozziemonitors project on inaturalist'
+ 'SouthWest Dolphin Project' 'StateNRMProgram' 'The Arc/k Project'
+ 'The Butterflyway Project' 'The Community Science Program'
+ 'The Earth Project' 'The GLOBE Program'
+ 'The hopkins_centre Dignity Project Community Hub & Survey'
+ 'a Citizen Science Project' 'a Community Science Program'
+ 'a Local Phenology Program' 'a Research Project'
+ 'bearjob \\n Bear DNA Project/Bear Management Intern' 'devonbatproject'
+ 'einem Programm' 'jgi Community Science Program'
+ 'the 25th Anniversary of the GLOBEProgram' 'the AIMsurv COSTprogramme'
+ 'the AIMsurv Training School COSTprogramme'
+ 'the Alberta Community Bat Program'
+ 'the American Climber Science Program'
+ 'the Citizen Science Bushfire Project Finder'
+ 'the CitizenScience Project' 'the Civic Science Fellows Program'
+ 'the Clean Water Program' 'the Colorado Headwaters Nature Project'
+ 'the Community Science Program' 'the Earth Project' 'the GLOBE Program'
+ 'the GLOBEProgram' 'the Great Sunflower Project'
+ 'the GreatLakes Marsh Monitoring Program' 'the Heart Lake Program Center'
+ 'the Junior Bat Biologist Citizen Science Programme'
+ 'the LooeIsland Seal Photo ID Project' 'the Lost Ladybug Project'
+ 'the Monarch Larva Monitoring Project' 'the Mycology Research Project'
+ 'the NHMLA Community Science Program' 'the New York Phenology Project'
+ 'the SF City Nature Challenge Project' 'the SouthWest Dolphin Project'
+ 'the State Gov?s QLD Citizen Science Grant Program'
+ 'the Sungrazer Project' 'the Woodfordia Mycology Research Project'
+ 'the ZombieCrabs Project' 'the oldweather Project'
+ 'the\xa0ROMI_EU_Project']
+
+
+Comunidad 3:
+
+Organizaciones: ['AASHENews' 'AAVSO' 'ADSA' 'AMA' 'Academic' 'Adler the_zooniverse'
+ 'AdlerPlanet' 'Aeronautical Engineer' 'Afterschool Program'
+ 'AmateurAstronomy' 'Art, Poetry, Music' 'AsassnCitizen Twitter'
+ 'Astro & Astrophysics' 'AstroKirsten' 'AstroPartyDan' 'AstroQuest'
+ 'Astro_Sav' 'Astronomy Mag' 'AstronomyMag' 'Aurora' 'Aurorasaurus'
+ 'Australasian Dark Sky Alliance' 'BintelShop' 'CNET' 'COSMIC' 'CPRE'
+ 'CPREGloucs' 'Caltech/R.' 'Centennial Challenges' 'CitSci and astronomy'
+ 'CitSciMonth in Apr' 'Citizen Science Month' 'Clump Scout Project'
+ 'Community Science Center Coordinators'
+ 'Community association \\n Scouts & \\n Artists' 'DoNASAScience'
+ 'DoeDatbe' 'Dr.narottamsahoo' 'DunlapInstitute'
+ 'Dutch Archaeological Prospection' 'ESCAPE_EU'
+ 'ESCAPE_EU Citizen Science' 'EU' 'EarthDay' 'Eclipse 2020'
+ 'Ellington Agricultural Center' 'Facebook' 'Family & Friends' 'French TV'
+ 'GLOBE' 'GLOBEProgram' 'GLOBEatNight' 'GWR' 'Galaxy Zoo' 'Gemini' 'Globe'
+ 'Globe at Night' 'Guinness World Records' 'Herbarium World' 'Hutton'
+ 'INAF' 'InPlace' 'InfoGujcost' 'International Dark Sky Week' 'Join CPRE'
+ 'Juno' 'JunoCam' 'Kreutz group' 'Lead Scientist' 'LightPollution'
+ 'Lisburn NI' 'M3' 'MAS' 'MadeFromRI' 'Mar' 'MayTheFourth' 'Miles de PC'
+ 'MuseumAtHome' 'MuseumHome' 'NASA' 'NASA Citizen Science' 'NASAJuno'
+ 'NASASolve' 'NASA_TESS' 'NFN-Expedition Arctic Botany' 'NOAA' 'NOIRLab'
+ 'Nasa' 'NatGeo Citizen' 'New NASA' 'NiobraraNSR' 'Noctilucent'
+ 'NorthWessexAONB' 'ORG' 'OpenUniversity' 'OzGRav' 'Photo: Trav N.'
+ 'Ping EarthDayNetwork Kathleenedn' 'RECORDLRC' 'RT DoNASA' 'RT NASA'
+ 'Radio Jove' 'Reddit' 'SCUonline' 'SETI' 'SETIInstitute' 'SETIhome'
+ 'SPOCS) - Design' 'SSERD' 'STEVEPhenomena' 'SWAN' 'SciBry' 'SciStarter'
+ 'SciStarter & nlm_news' 'Science' 'Southern Cross Geoscience'
+ 'Southern Cross University' 'Space' 'SpaceApps Challenge' 'SpaceWatch'
+ 'SpaceX' 'StarCount' 'StayAtHomeOrder' 'Sungrazer Project'
+ 'Swinburne University' 'TESS' 'TGIF' 'TeamStormie'
+ 'The Crowd & The Cosmos' 'Therry Catholic College Rosemeadow'
+ 'Training Manager' 'Twitter' 'UMMNH' 'UPenn' 'Unipisa' 'Unistellar'
+ 'Unistellar EVscope' 'UnivdeCoimbra' 'UofT' 'Volunteer exoplanet' 'WT'
+ 'WasteAid Challenges' 'Wfv' 'WorldRecordLight' 'Zoom' 'Zooniverse'
+ 'a Craft Library' 'a Research Project' 'abcnews TV' 'allinpics'
+ 'an Artificial Intelligence' 'chrislintott' 'coronavirus'
+ 'darkskyalliance' 'darkskyalliance citizenscience' 'deicherstar'
+ 'eVscope' 'ego_virgo' 'elonmusk' 'esa & Zooniverse' 'globeatnight'
+ 'lightpollution' 'lockdown' 'our Identification Service'
+ 'penguinwatch & galaxyzoo' 'reddit' 'remotesensing'
+ 'remotesensing & geoinformation' 'sense' 'space & humanity'
+ 'the Boston Library' 'the Lake Observations' 'the Moon'
+ 'the Northern Lights   University of Helsinki' 'the Solar System'
+ 'the South Atlantic Fishery Management Council' 'the Southern Cross']
+Personas: ['Alex Buchanan' 'Alice' 'Anna' 'Astronaut Candidate' 'Auria Buchs' 'Azl'
+ 'Ben Krasnow' 'Betelgeuse' 'Bob' 'Bryan Gaensler' 'Casey' 'Clump Scout'
+ 'Cmi' 'Connie Walker' 'Elizabeth MacDonald' 'Emily Peavy' 'Erik Osinga'
+ 'Fiona Jones' 'Gibbous Moon' 'Helen Amos' 'Hrod' 'InstantWild'
+ 'Jess Fraser' 'Jim Green' 'JoeBiden' 'John' 'Jupiter' 'Karsten Lambers'
+ 'KeithRWahl' 'Kellie' 'KiryU' 'Kristine Larsen' 'Kry \\n envirogov'
+ 'LauraOremland' 'Leo' 'Lichen' 'Luca' 'MTSNEYSPKx' 'Mark' 'McConnell'
+ 'Metta' 'MinnaPalmroth' 'MinnaPalmroth helsinkiuni' 'NASAJuno' 'Noi ci'
+ 'Norah Patten' 'Nyanza' 'Ojalá la Nasa' 'Pandya' 'Peake' 'Perri'
+ 'Potrzebujemy' 'Prof' 'Quentin P. J. Bourgeois.' 'Rayado' 'Rich Roberts'
+ 'Récemment diplômé de UGrenoble' 'SciBry' 'Shandiya' 'Shawna Pandya'
+ 'Stephen Diggs' 'StormDennis' 'Tabetha Boyajian' 'Tim' 'Trygve'
+ 'Unistellar' 'Wild Gabon' 'Wouter B. Verschoof-van der Vaart' 'Yang ni'
+ 'Yzha' 'Zooniverse' 'auspol' 'chrislintott' 'comet Atlas' 'dgaticaperez'
+ 'scicomm' 'scifri' 'Ángel El_Lobo']
+Proyectos: ['Afterschool Program' 'Clump Scout Project' 'GLOBEProgram'
+ 'Mars Exploration Program' 'Sungrazer Project' 'a Research Project']
+
+
+Comunidad 4:
+
+Organizaciones: ['ABMINatureLynx' 'AGU Newsroom' 'App' 'Aurora' 'AuroraBorealis'
+ 'BiodiverCITY' 'Boerner' 'Cabello' 'Calgary' 'ChasingSteveFilm'
+ 'Constesting/Radio Sport' 'Edinburgh Council' 'FB' 'FedCitSci Project'
+ 'Fothergill' 'FoxTV' 'Future Parks Initiative Edinburgh' 'G.Fernandez)'
+ 'Green Spaces' 'Ham radio' 'HamRadioSCI' 'IsaRc39' 'MHunnekuhl'
+ 'Magalhães' 'Marine Biology' 'Maxime_Grandin' 'MinnaPalmroth' 'MyTWOSE'
+ 'NASA' 'NSF' 'Nat Geo Virtual Academy' 'Noctilucent' 'Northern Lights'
+ 'Philippines' 'Ping EarthDayNetwork Kathleenedn' 'Quantum Physics'
+ 'Rivera)' 'SmartUnLock' 'Space Weather & Space' 'TransCanada'
+ 'TweetAurora' 'UAFGI' 'US (Companion' 'VIIRS Day/Night Band'
+ 'Wild Turkey' 'YYC' 'YouTube' 'andyrainforest' 'aurora' 'helsinkiuni'
+ 'jcgaillard_uoa' 'northernlights & citizenscience' 'photographer'
+ 'sciencetwitter' 'techniek & innovatie'
+ 'the ABMINatureLynx EdmontonBiodiverCityChallenge'
+ 'the Auroral Connection' 'the EdmontonBiodiverCityChallenge'
+ 'the HamSci Workshop 2020' 'the NorthernLights'
+ 'the Personal SpaceWeather Station' 'the QI Elves']
+Personas: ['- Henry David Thoreau' 'Andy Whitworth' 'Bison' 'Bonasus' 'Bouchard'
+ 'C. Størmer' 'Carl Størmer' 'Frank Pierce' 'Gerhard - thank' 'Greylag'
+ 'Ham' 'Jen' 'Jens Hörig' 'Kimmo' 'Kurnell' 'Könnt' 'Lolldaiga' 'Marie'
+ 'Michael Wittberger' 'MinnaPalmroth' 'MinnaPalmroth helsinkiuni'
+ 'Nathaniel Frissell' 'Night Heron' 'Prof' 'Ruddy' 'Sora' 'Steve'
+ 'Strathy' 'Tbj9n' 'TheAurora' 'TheCurve' 'TweetAurora' 'Wilson Snipe']
+Proyectos: ['FedCitSci Project']
+
+
+Comunidad 5:
+
+Organizaciones: ['AGU Newsroom' 'Ailanthus Webworm Moth' 'Astro_Sav'
+ 'AucklandUni and gnsscience' 'BE - the tech & startup' 'Bijvoorbeeld'
+ 'Boerner' 'COVID' 'Cabello' 'Carisimo Pocos' 'CitSciMonth'
+ 'Citizen Science Project' 'Citizen Science Shark Research'
+ 'Community Science Fellows' 'DG ISR' 'DavideScridel'
+ 'EU Citizen Science Newsletter' 'Explore New Zealand Travel Daily'
+ 'Facebook' 'FieldworkFriday' 'Fort Tryon Park: Biodiversity and Ecology'
+ 'Fothergill' 'G.Fernandez)' 'G20_GEOGLAM' 'Germany' 'GriffonVultures'
+ 'Hedgehog Hero' 'IIASA and esa' 'IsaRc39' 'LabXchange' 'LandSense'
+ 'Local ETH_en' 'Los anfibios de CABA' 'MME' 'Magalhães' 'Magna' 'Makers'
+ 'MapMyEnv' 'Mexico Earthquake' 'NASA' 'NHMU' 'NatureToday' 'NodeXL'
+ 'Oceans' 'OregonWild' 'PGS' 'Philippines' 'ProjectGreco' 'PublicGoods'
+ 'ROPT' 'RT Geophysics' 'Raspberry Shake' 'RaspberryShake CitizenScience'
+ 'Rivera)' 'SSERD' 'San Antonio De Los Cobres' 'Scania' 'ScotchBroom'
+ 'Seismological Research Letters SRL' 'Seismology' 'Shake' 'Shakers'
+ 'State' 'Swarovski' 'SwarovskiOptik' 'TGCIPB'
+ 'The MonarchWatch Tagging Program' 'TheWCS' 'TheWilsonCenter' 'UNBog'
+ 'US (Companion' 'USCIS' 'USGS' 'UWproteindesign' 'UniqueMappers'
+ 'UniqueMappersTeam' 'University' 'Washington \\n' 'WeObserveEU'
+ 'Wild Turkey' 'WinProcessCompany' 'a Biogeographical Crossroads'
+ 'bearjob \\n Bear DNA Project/Bear Management Intern' 'britishlibrary'
+ 'citizenscilab' 'coronavirus \\n \\n Join our citizenscience'
+ 'daysedge / bioGraphic' 'giorapac' 'jcgaillard_uoa' 'leadership'
+ 'lifewithcorona' 'northern BC' 'omi_bern' 'photovoltaic' 'pwa_zurich'
+ 'raspishake CitizenScience'
+ 'the Kyrgyz Mountains Environmental Education'
+ 'the LandSense Innovation Challenge' 'the Nation' 'the Quino El Guardian'
+ 'the StateDept' 'the University of Central Asia']
+Personas: ['Alan Hartman' 'Allison Jones' 'Aln1tv' 'Beata Ndunge Nzove' 'Bouchard'
+ 'Ca$h' 'Cancilleria' 'Cha' 'Daniela Castillo mariadcastilloc' 'Darwin'
+ 'Day' 'Erina Molina' 'FalguniThinks' 'Fz0lgqm' 'Gavin McKinnon'
+ 'Hans Lucas' 'IsReal iceking' 'Jay Pulli' 'Jeff' 'Keas'
+ 'Kijk naar de soort' 'Kuril' 'Lena' 'Lou Ruddell' 'M Ravikumar' 'MJ'
+ 'Maria' 'Miguel David de Leon' 'MinnaPalmroth' 'Nancy Caruso:' 'Nle'
+ 'Néstor Rojas' 'Pallas' 'Pi - quite' 'Pia Marchegiani' 'Qik3'
+ 'RT SteveBCaron' 'Rebecca' 'Rebecca Ray' 'Rodolfo Hernand-Pérez' 'Schell'
+ 'SciStarter' 'SteveBCaron' 'Sue Kinnear' 'The ?Kelp Lady' 'Una maravilla'
+ 'Valeria Arza' 'ZI' 'jeffbouwman']
+Proyectos: ['Citizen Science Project' 'ProjectGreco'
+ 'The MonarchWatch Tagging Program'
+ 'bearjob \\n Bear DNA Project/Bear Management Intern']
+
+
+Comunidad 6:
+
+Organizaciones: ['AgeoAtlantic' 'Alofa' 'AndyBurnhamGM' 'AstroBVIproject' 'AtlanticArea'
+ 'Boerner' 'Cabello' 'CitizenScience + Tech' 'DG ISR' 'EarthChallenge2020'
+ 'Fothergill' 'G.Fernandez)' 'IsaRc39' 'KUTV2News' 'La Estrella'
+ 'Magalhães' 'Mexico Earthquake' 'NodeXL' 'Open Schools' 'Philippines'
+ 'Raspberry Shake - Join' 'RaspberryShake CitizenScience' 'Rivera)'
+ 'SANIMS' 'San Antonio De Los Cobres' 'San Pedro De Atacama'
+ 'Seismological Research Letters SRL' 'Spokane' 'TheMagPi Raspberry'
+ 'US (Companion' 'USGS' 'WFH' 'a Citizens Observatory' 'jcgaillard_uoa'
+ 'raspishake' 'raspishake CitizenScience' 'the DgCanarias' 'vanderHome']
+Personas: ['BhrKn' 'Bouchard' 'Cha' 'Diego De Almagro' 'Fz0lgqm'
+ 'Ilha de Moçambique' 'M Ravikumar' 'Michiel Van Oudheusden' 'MyShake'
+ 'Orla' 'RT SteveBCaron' 'SharmAlShaykh' 'SteveBCaron' 'Una maravilla'
+ 'ZI']
+Proyectos: ['AstroBVIproject']
+
+
+Comunidad 7:
+
+Organizaciones: ['Aeroclub' 'Alliance' 'Ambiente' 'Avatar News' 'BBL' 'BeechTroon'
+ 'BioBus' 'C. C. Patel Community Science Center' 'COVID19'
+ 'Civic Science Learning Lab' 'Community Science' 'DM' 'EU'
+ 'EctorCountyISD' 'Electrical Engineering Department' 'FRWA_ORG'
+ 'Food Science& Nutrition College of Community Science' 'GLOBE'
+ 'Greenfied Community Science Lab' 'HOD' 'IoT-FaceShields'
+ 'Jorhat Agricultural University' 'Large Research Infrastructures' 'NASA'
+ 'NOAA' 'NYT' 'Nacion- CABA' 'OpenUniversity' 'PBSNOVA'
+ 'Project Learning Tree' 'ProjectGreco' 'RSPB' 'RT'
+ 'Sardar Patel University' 'Schönes Beispiel'
+ 'SciPhilOrg - The Science Philanthropy Alliance'
+ 'Science Centre Aravalli' 'TexasMasterNat' 'The Citizen Science Lab'
+ 'USA: https://t.co/FRn6Osucaq' 'UtrechtUni' 'WSJ' 'Wired Magazine'
+ 'bluebird Boxes' 'civicscience' 'developers' 'sense'
+ 'the Professional Society Civic Science Initiative'
+ 'the Rita Allen Foundation']
+Personas: ['Adelaide' 'Aurorasaurus' 'Bravo danielagambab' 'CMarizzi'
+ 'Damit alle Bürger' 'Dann' 'Feld' 'Glagjr' 'Hallo Gesellschaft'
+ 'Hannah James' 'Jeder kann mitmachen' 'Jetzt' 'Jose Sanchez'
+ 'Karen Andrade' 'KavliFoundation' 'Kurt Gabrielson' 'Laura Pintore'
+ 'LoRa inquinamento arduino' 'Lora' 'Mark' 'Nachbau' 'Nächster Schritt'
+ 'Pranati Das' 'Rens van de Schoot' 'RensvdSchoot' 'RoHendricks' 'Terra'
+ 'TheFriendsof' 'Uwe Berger' 'Von der Qualität' 'WhiteRose'
+ 'Wäre mehr Strassen' 'Zaragoz' 'hallo Museen' 'scienceworldca'
+ 'von zuHause']
+Proyectos: ['Project Learning Tree' 'ProjectGreco']
+
+
+Comunidad 8:
+
+Organizaciones: ['AutorInnen' 'Bildung' 'ChemnitzUniversityOfTechnology'
+ 'CityofPerth CitizenScience' 'Data' 'Dresdner Geschichtsmarkt'
+ 'Ehrenamtliche Historiker'
+ 'Forschungen zur Dresdner Fotografie-, Film- und Kinogeschichte' 'GLAM'
+ 'Geschäft' 'Ideen zum Museum' 'Inhalten' 'Interesse' 'KKKKKfW'
+ 'Kommentare und Gastbeiträge' 'Kreatives' 'Kritik' 'Kultur, Kunst'
+ 'LibCrowds' 'Metadaten & Ehrenamt' 'Miteinander_TUC' 'PYBOSSA'
+ 'Postkarten mit sächs' 'Sachsen' 'Themenmix' 'Wollte'
+ 'Zusammenfassung des Berichts zur Lage der Natur' 'britishlibrary'
+ 'https://t.co/XELLeFaupy' 'iNaturalist' 'libcrowds' 'openGLAM'
+ 'openGLAM & enthist' 'retasbudaya' 'the Fire Brigade' 'ÖBs - Wie']
+Personas: ['Aber Verschiebung' 'Amélie' 'Andreas Wagner' 'Auch das isgv_dd'
+ 'Ausgehen von Daten' 'B. Findmittel' 'Beruf' 'Bibliotheken'
+ 'Bildet Banden' 'Bin zuversichtlich' 'Bloodhound' 'Dabei mehr & mehr'
+ 'Das Auswanderer-Briefprojekt' 'Das Ziel' 'Das rki' 'Der Kollege'
+ 'Die Geschichte' 'Ende der Woche' 'Erster Themenblock' 'Erzählen'
+ 'Fahrradindustrie' 'Fahrt' 'Fotothek' 'Heute' 'Ich bin dabei' 'Jens'
+ 'Jens Bemme' 'Johann Joachim Winckelmann' 'Johann Michael Francke'
+ 'Kalauer' 'Kultur Trend' 'Kunst' 'Leistungen - und' 'Liebe Kolleg*innen'
+ 'Machen' 'Mai' 'Mann' 'Melden' 'Morgen zeigen' 'Motiven von 1903'
+ 'Nach Anregungen zum Nachdenken' 'Neben' 'Pofri' 'Sachsen' 'Schritt'
+ 'SiobhanLeachman' 'Speisekarte' 'Straßen und Vierteln'
+ 'Sächsischen Akademie' 'Tag20 Danke' 'Tretkurbel-Velocipede'
+ 'Viel Erfolg bei der Umsetzung' 'Viele Grüße' 'Vielleicht' 'Vorlagen'
+ 'Vortrag' 'Vortrag auf dem' 'Wenn Sie'
+ 'Wichtige Fragen von Jana Hoffmann' 'Wie' 'Wie kann' 'Wie können'
+ 'Wolfgang Flügel' 'Wünsche' 'Würdigung' 'der Menschen' 'librarian'
+ 'von Fotografie']
+Proyectos: []
+
+
+Comunidad 9:
+
+Organizaciones: ['?Minds and Microscopes' 'Bahama_Shark' 'Citizen Science days' 'Clouds)'
+ 'Crowdmapping-Tool' 'DayofService' 'EPA' 'EarthDay' 'EcoSchoolsUSA'
+ 'EveryTreeCount' 'FB' 'Facebook' 'FridayFeatures' 'GLOBE'
+ 'GLOBE Observer' 'GLOBE/GO' 'GLOBEProgram' 'Hydrosphere' 'IARC'
+ 'Instagram' 'LEGO' 'LandCover' 'LandUse' 'LetsBuildTogether'
+ 'More Tech-Trek' 'NASA' 'NASACitSci2020' 'NASAGO' 'NOAA' 'NSF'
+ 'National Parks' 'NatlParkService' 'Oakes Field Primary'
+ 'Our Citizen Science Quality Assurance Plan' 'Ready Nation for ALL..'
+ 'SciStarter' 'Shumate' 'StateDept' 'Tech-Trek' 'The GLOBE Program'
+ 'The GLOBE Program Twitter' 'TheGLOBEProgram' 'Twitter' 'YouTube GLOBE'
+ 'a National Mapping Agency' 'citizenscientist' 'landcover'
+ 'the GLOBE Website']
+Personas: ['Christi McFadden-Evans/AlaskaPublic' 'Day' 'Dir -Hilf Du den Bäumen'
+ 'Elena Sparrow' 'Groundhog' 'Ian McKenzie' 'Jeff' 'Joseph Kerski'
+ 'Joshua Fisher' 'Jr.' 'Martin Luther King' 'Mle2' 'NASA Goddard'
+ 'Punxsutawney Phil' 'R. Strother' 'TreeChecker' 'Valentine' 'jeffbouwman'
+ 'ladymcheth']
+Proyectos: ['Anniversary of The GLOBE Program' 'GLOBEProgram' 'Project Finder'
+ 'The GLOBE Program' 'The GLOBE Program Twitter' 'TheGLOBEProgram'
+ 'the 25th Anniversary of the GLOBEProgram']
+
+
+Comunidad 10:
+
+Organizaciones: ['Blue Planet II' 'CERN' 'CITiZEN' 'CitSciMonth' 'Citizen Science Games'
+ 'Citscimonth' 'Cosmic Ray Physics' 'EU' 'FakeNewsMedia' 'FisicaUB'
+ 'Human Computation, Crowdsourcing' 'IASA' 'InternationalWomensDay'
+ 'Join sdosemagen ShirkSci & the EuCitSci EIE WG'
+ 'Large Research Infrastructures' 'MSCActions' 'Mac, Linux'
+ 'MainstreamScience' 'OceanDiscInst' 'OpenUniversity' 'OrielScience' 'PC'
+ 'ProfAlGong Invertebrate' 'REA' 'SciStarter' 'Scientific Establishment'
+ 'Society 2020' 'The Path to Truth Freedom Health' 'Trust'
+ 'Urbanizer Challenge' 'sciathome' 'the Large Hadron Collider'
+ 'the Standard Model' 'the Sun']
+Personas: ['Amrapali Video' 'Cambio Climático' 'DannaMoore' 'Demelza Ramakers'
+ 'Dorte' 'Enhorabuena' 'EurekAlert' 'EylesLauren'
+ 'Gaby SandraLpezVergs minchenpty' 'Iliana' 'Janice' 'Katrin'
+ 'Lauren Eyles' 'MinnaPalmroth' 'MiriamAczel' 'Ojalá la Nasa' 'RebaFay'
+ 'Rosa' 'SHIVA' 'Sammlung' 'Sara Pizzinato' 'Sonia' 'WomensDay']
+Proyectos: []
+
+
+Comunidad 11:
+
+Organizaciones: ['Basso a Rialto' 'Business Post' 'CentAUR' 'Citizen Science Month'
+ 'CitizenCyberLab' 'DCC' 'ENE' 'EU' 'Les Bulgares' 'NNE' 'NNW' 'OpenAIRE'
+ 'SSE' 'Tom_H_Oliver et al ReadingBioSci' 'UN' 'WHO' 'WNW' 'WSW'
+ 'the CitizenScience luftdaten' 'the green party']
+Personas: ['Arianna' 'Bhoa' 'Elpt' 'Erzählen' 'Frmc4f' 'Gihdpt' 'Grazie ad'
+ 'Grazie il' 'Jeffrey' 'Johan' 'Kqoe' 'Kry' 'Lasciateci ringraziare'
+ 'Lhog5' 'Machen' 'Mesure de partic' 'Mikhus' 'Pewr' 'Roe'
+ 'Stunde der Gartenvögel' 'Ughp' 'Uje' 'Vlhn' 'Vögel' 'Wissen' 'Ybe' 'Ygt'
+ 'Zdl' 'Zwu4t' 'local' 'luftdaten']
+Proyectos: []
+
+
+Comunidad 12:
+
+Organizaciones: ['AI' 'CSMCRI' 'Facebook' 'Foldit' 'GibMarine' 'HullBiology' 'ITMantwerp'
+ 'Litter Intelligence Project' 'Maite' 'Otago' 'OtagoRC' 'Puffarazzi'
+ 'RSPB' 'ShivNadarUniv' 'VigyanPrasar' 'WorldOceansDay' 'marinemetre2'
+ 'the OtagoRC Ecofund' 'the Rock Pool Project'
+ 'the University of Edinburgh' 'the University of Gibraltar'
+ 'the underwatercamera in Gibraltar']
+Personas: ['Annaïck sistersfornatu1' 'B K Tyagi' 'Bianca Daniell' 'Brian Reyes'
+ 'Cellene Robba' 'ClubAnfora' 'Colin Wilkinson' 'Ellie Owen' 'Ellingbry'
+ 'Ian Bensusan' 'Justin McNeice' 'Kannan Srinivasan' 'Kesteleyn'
+ 'Nicky Dobson Nicky_Dobson' 'Poonam Bhargava' 'Puffarazzi' 'Rob Lewis'
+ 'Shark Spy' 'SharkSpyOtago' 'Sue Hull' 'otagoharbour']
+Proyectos: ['Litter Intelligence Project' 'the Rock Pool Project']
+
+
+Comunidad 13:
+
+Organizaciones: ['Aedes' 'BG-GAT' 'BeeMushroomed Feeder' 'CNCAdelaide' 'CSIRO'
+ 'Chesapeake DolphinWatch' 'Evergreen/Everblue'
+ 'GenZeroNZ & the ZeroCarbonAct' 'Greater Adelaide' 'HEHPeople'
+ 'HogWatch at Home' 'Landcare' 'LiMPETS' 'MSIsanjuan Citizen Science'
+ 'Mozzie Monitors' 'NSW' 'Ramco Primary School' 'Regional SA' 'Riverland'
+ 'SM T' 'SouthAustralia' 'iNat' 'iNaturalist' 'scicomm'
+ 'southaustralia Ca' 'the Mega Murray-Darling Microbat Project']
+Personas: ['Babe Ruth' 'Carolyn Wilson' 'Clarke' 'Dianne' 'ErinnFJ' 'Geoff' 'Lutzia'
+ 'Metta' 'Nick Lambert' 'Sylvia' 'Sylvia Clarke']
+Proyectos: ['the Mega Murray-Darling Microbat Project']
+
+
+Comunidad 14:
+
+Organizaciones: ['CBC' 'Casa QuedateEnCasa' 'CityNatureChallenge' 'Desde'
+ 'El lanzamiento es mañana' 'EwA News Digest' 'GreenCambridge'
+ 'Hummingbird' 'Hummingbirds at Home' 'La mejor' 'Los anfibios de CABA'
+ 'MinAmbiente' 'Oriole' 'Screenshot' 'UWIN' 'Una de las pocas'
+ 'Waschbär und Co.']
+Personas: ['Adacely Trujillo' 'Alejandro Sánchez' 'Ann-Marie' 'Audubon'
+ 'Benjamin Franklin' 'Berliner Wildtierforscher' 'BhrKn'
+ 'Calgary Captured' 'Casa' 'Casa QuedateEnCasa'
+ 'Casa QuedateEnTuCasaCarajo' 'Ciencia' 'CienciaEn' 'Col unescowhc'
+ 'Daniela Morales' 'Dula' 'Eine' 'Feliz' 'Gracias Andrés Salamanca'
+ 'Gracias Melissa Rioja y Fabiola' 'Gracias Sofía Lottersberger'
+ 'Gracias por la' 'Hilfe von engagierten' 'Hoy Díadela'
+ 'Jessenia Valverde' 'Leben' 'Letzte Erinnerung: Aktion'
+ 'Lust auf Forschung' 'Mehr Infos' 'Mike' 'Nur noch bis heute'
+ 'Ojalá la Nasa' 'Plataformas de Ciencia Ciudadana' 'Rabbitus'
+ 'Redakteurin' 'Renato Urquizo' 'Rosalind Franklin' 'Sebastian Moscoso'
+ 'Senckenberg - Wissenschaftlerin' 'Stunde Vögel' 'Stunde der Gartenvögel'
+ 'UWIN' 'Von 24.-27' 'Víctor' 'Wachau' 'Walter Aramayo' 'Zur Zeit'
+ 'jeder Wohnung']
+Proyectos: []
+
+
+Comunidad 15:
+
+Organizaciones: ['Ab 19 Uhr' 'Berliner können Sichtungen' 'Blühender Campus' 'Briefkasten'
+ 'Bürgerforschungsprojekt des Leibniz-IZW' 'Conference'
+ 'DLR - Jobs & Karriere - Leitung'
+ 'Das Leibniz-Institut für Zoo- und Wildtierforschung' 'ECSA' 'EU Council'
+ 'FT' 'Fuchs, Waschbär und Co.' 'INOS' 'Innen- und Außenwänden'
+ 'MfNBerlin' 'Open Science' 'OpenCall' 'Orte der Bildung' 'PublicLab'
+ 'SDGs' 'Spannungsfelder' 'Supermarkt' 'Teil' 'Twitter' 'UCL'
+ 'Unterhaltend' 'Zusammenarbeit mit CattaScience' 'csfestival20'
+ 'mfnberlin' 'mitforschen' 'the ChilternsAONB']
+Personas: ['??SocialDistancing' 'Ann-Marie' 'Anspruch und Bedeutung'
+ 'Arbeiten Einzelner' 'Auch Filmposter' 'Auswahl' 'Berge' 'Bis Sonntag'
+ 'Bürger*innen Daten' 'Corona Kultur' 'Damit alle Bürger'
+ 'Daniela Friebel' 'Dann' 'Dann am besten' 'Das Citizen-Science-Festival'
+ 'Das Motto' 'Das Projekt' 'Das Projekt Fledermausforscher' 'Das Thalia'
+ 'Das Warten' 'Ed Peveler' 'Ein Beispiel' 'Ein Straßenschild' 'Eindrücke'
+ 'Einreichung' 'Elfenbeinturm' 'Entwicklung'
+ 'Erwecke das Forschungstalent' 'Eure Funde' 'Gegensatz zur'
+ 'Hannes Schlender' 'Hilfe von engagierten' 'Jena' 'Jetzt mitforschen'
+ 'Karte' 'Kim_Mortega' 'Kino' 'Letzte Erinnerung: Aktion' 'Luft' 'Mai'
+ 'Mai 2020' 'Mai mit Konzepten' 'Mehr Dialog' 'Mehr Infos' 'März'
+ 'Noch bis Sonntag' 'Nur ein' 'Osterwochenende den Kampf' 'Pink__Ponk'
+ 'Pofri' 'Sagt der Langeweile' 'Sammlung von Filmplakaten'
+ 'Senckenberg - Wissenschaftlerin' 'Sie finalisieren' 'Sigri Peter'
+ 'Sigrid Peter' 'Spannungsfelder' 'Straßen und Vierteln' 'Stunde Vögel'
+ 'Stunde der Gartenvögel' 'Ulf Ickerodt' 'Ute Mackenstedt'
+ 'Viel Spaß beim Schmökern' 'Vielen' 'Voilá' 'Von Potsdamer' 'VxuBh'
+ 'Weitere Bezirke' 'Wie Forschende' 'Willkommen Elisabethenstraße'
+ 'Zur Zeckenforschung' 'bekannt unter den Schlagworten' 'der Menschen'
+ 'einen Garten' 'fiwi scitsci']
+Proyectos: []
+
+
+Comunidad 16:
+
+Organizaciones: ['AMDigiVol' 'Aussie/NZ' 'BBC' 'BBC Radio' 'BBCFOUR' 'BBCRadio4'
+ 'Birdwatch' 'COP' 'COVID-19' 'CS' 'CSI-COP' 'CitSciAssoc'
+ 'CitSciAssoc Law & Policy Working Group'
+ 'CitSciAssoc Law and Policy Working Group' 'CitizenScience and privacy'
+ 'Coventry University' 'EU' 'EU_Horizon2020' 'European Union'
+ 'FryRSquared Contagion CitizenScience' 'FryRsquared' 'FrySquared'
+ 'NatRevMater' 'New citizenscience' 'OUComputing' 'OpenUniversity'
+ 'Research Fellow' 'SocialDistancing & SelfIsolation' 'UEA' 'UEA biouea'
+ 'bbcinsidescience' 'science' 'the _BTO Garden BirdWatch']
+Personas: ['Allan Jones' 'Girish Goswami' 'Jonathan' 'Marc Irvin' 'ToddKincaid']
+Proyectos: []
+
+
+Comunidad 17:
+
+Organizaciones: ['Botanic Garden' 'DebrisTracker' 'FeraScience' 'Forest_Research'
+ 'MakeADifference' 'Observatree' 'SpawnSurvey' 'SpittlebugHunt'
+ 'Spottedlanternfly' 'UKHouseofLords' 'WoodlandTrust' 'observatree'
+ 'the Bank Holiday' 'the WoodlandTrust']
+Personas: ['Abbiamo' 'Anapesi3' 'Andy Gordon' 'Dame Helen Mirren' 'David Slawson'
+ 'Ladda ned _SLU' 'Mireille Marcotte'
+ 'Observatree - The Woodland Trust - https://t.co/HqiLOKmcKP'
+ 'Phil Handley' 'Phil TreeworkUK natapp_uk']
+Proyectos: []
+
+
+Comunidad 18:
+
+Organizaciones: ['KraMobil App' 'MN STEM' 'OhioDivWildlife' 'Salt Watch' 'TonkaSkippers'
+ 'blackbear' 'hunter' 'the Minnesota Academy of Science']
+Personas: ['Day' 'Irhl' 'User Gjafall']
+Proyectos: []
+
+
+Comunidad 19:
+
+Organizaciones: ['ASCConservation' 'Brown Pelican' 'CBPR' 'COVID19' 'DrinkableRivers'
+ 'European Public Health Institution' 'Feederwatch' 'ICYMI'
+ 'ICYMI - TheHPPJournal' 'ICYMI ejfoundation' 'KarukTribe' 'NOAA'
+ 'Northern CA' 'QuestaGame' 'SFU' 'SandritaDe' 'SciShopsSYMPOSIUM'
+ 'ScienceShops' 'SoCal L.A. Wildlife Center' 'The Open Science Hubs'
+ 'TheHPPJournal' 'TheHPPJournal - Supporting CBPR' 'UCDavis_Nursing'
+ 'WildlifeWarriors Kids' 'Zebras' 'citizenscientist'
+ 'the Big Composting Experiment &' 'the KarukTribe'
+ 'the SanFrancisco School of holography']
+Personas: ['Berg' 'Carmen Munteanu' 'GrevysRally' 'Ryan Juskus' 'Vries' 'Xrz8'
+ 'Zthy' 'astroehlein']
+Proyectos: []
+
+
+Comunidad 20:
+
+Organizaciones: ['AAS235' 'AAVSO' 'AAVSOobservers' 'AmateurAstronomy' 'Arthropod'
+ 'Betelgeuse' 'Biodiversity & Climate' 'BirdsCanada' 'CSDC'
+ 'Community Science and Data Center' 'DukeGardens' 'EwA' 'Exoplanet Watch'
+ 'Facebook Live' 'GreensboroSC \\n -Weather School'
+ 'KPMcFarland & Sara Zahendra' 'NASA' 'NASA Citizen Science'
+ 'NC State University' 'NSF' 'OIR' 'Obs' 'SagaHolidaysUK Sapphire'
+ 'SkyscrapersInc' 'SpaceX' 'VStar' 'WISE' 'citizenscientists'
+ 'dancaselden' 'elonmusk' 'the AAVSO International Database'
+ 'the Berkeley Forum']
+Personas: ['Aaron Meisner' 'Betelgeuse' 'Day' 'Gordon Myers' 'Loss of the Night'
+ 'Lowell' 'Marc Kushner' 'Rich Roberts' 'Rob Zellem' 'Skylar Larsen' 'Sun'
+ 'Valentine']
+Proyectos: []
+
+
+Comunidad 21:
+
+Organizaciones: ['Al final de la semana' 'El ClubAnfora' 'FotoQuest' 'LandCover' 'LandUse'
+ 'Scania' 'a National Mapping Agency' 'landuse']
+Personas: ['ClubAnfora' 'Lee la entrevista']
+Proyectos: []
+
+
+Comunidad 22:
+
+Organizaciones: ['Research Communication Skills' 'VAU']
+Personas: ['Alla pajujäär' 'Geenimetsuri' 'Hannes' 'Hei Suomi' 'Ilma' 'Jes'
+ 'Lars von Haartman' 'Luma biologia' 'Miksei jo juhannuksena' 'Miksiköhän'
+ 'Mutta' 'Onpa hieno uutinen' 'RaijaHamalainen' 'Suomen lajitieto'
+ 'Uskon näin' 'Uusien iNaturalist' 'Vastuullisuus'
+ 'avointieto linnut kansalaistiede' 'elinakoi' 'elonkirjo kansalaistiede'
+ 'helsinkiuni' 'lepakko helsinkiuni' 'rakkoleva']
+Proyectos: []
+
+
+Comunidad 23:
+
+Organizaciones: ['BC Residents huntervant' 'Bee Smart' 'Budworm Tracker' 'CdnPressNews'
+ 'ECOPredS' 'Jenner' 'NCC_CNC' 'Pinniped Monitoring Program' 'SFU'
+ 'Sechelt BC' 'Stewards of the Coast and Redwoods'
+ 'Ted. Sturgeon Conservationists' 'Thames' 'WildCAM' 'cameratraps'
+ 'citizenscientist' 'seals']
+Personas: ['Dan Kraus.' 'Jess' 'Mary Beth Pongrac' 'Noel' 'Paula' 'Sturgeon'
+ 'michelleallan' 'seals']
+Proyectos: ['Pinniped Monitoring Program']
+
+
+Comunidad 24:
+
+Organizaciones: ['BSCS' 'CincinnatiZoo' 'Cornell' 'EM' 'Environmental Education'
+ 'EtchACell' 'F1' 'Globe' 'IES' 'IrvineNature' 'K-12 Alliance'
+ 'K12Alliance' 'Monarch' 'NBCT' 'NBCTStrong' 'NGSS' 'NatGeoEducation'
+ 'NestWatch' 'Project Learning Tree' 'SDUSD' 'STP' 'TheCrick'
+ 'University of Edinburgh' 'the Cincinnati Zoo & Botanical Garden Plant']
+Personas: ['Chris' 'Dolgos' 'JR Kelsey' 'Jenna Krebbs' 'Kerryane'
+ 'Michael Ensminger' 'Noah' 'Pismo happyasaclam' 'Project Soothe' 'nsta']
+Proyectos: ['Project Learning Tree' 'Project Soothe']
+
+
+Comunidad 25:
+
+Organizaciones: ['ClinicalResearch Atlanta' 'EFA_Patients' 'FAIR' 'HumanExposome Network'
+ 'IBM' 'OCT_ca' 'OpenPandemics' 'SMATB' 'Time' 'WCGrid' 'research' 'wcg']
+Personas: ['Ditiu' 'JoPM' 'Panagiotis Chaslaridis' 'Parkinson' 'VictoriaJPalmer']
+Proyectos: []
+
+
+Comunidad 26:
+
+Organizaciones: ['British Library' 'Chilforts' 'CwallWildlife' 'DiginautenMainz'
+ 'FridayLiDAR' 'GreenCambridge' 'HeritageFundUK'
+ 'HeritageFundUK CitizenScience' 'HillfortsWednesday' 'Kentlidar'
+ 'MOLArchaeology & CCCUarchaeology' 'NationalTrust' 'Oayese' 'PATC5'
+ 'Rob & Emily' 'Surrey' 'Times' 'Twitter' 'WildlifeTrusts' '_Seasearch'
+ 'lesleymccabeFM' 'lidar &' 'opendata' 'the ChilternsAONB'
+ 'urbanforestmasterplan']
+Personas: ['Adele Morgan lightful' 'DiginautenMainz' 'Ed Peveler' 'FridayLidar'
+ 'Hele' 'Hillfort' 'Hillfortian' 'Hillfortian edpev7' 'Hunt'
+ 'Isabelle Reiss' 'Isabelle Reiß' 'Matt Slater' 'Philippa'
+ 'Shah   UofEArchaeology' 'Thody NHM_London' 'edpev7' 'qzondervan']
+Proyectos: []
+
+
+Comunidad 27:
+
+Organizaciones: ['GavinNewsom']
+Personas: ['DSteinhardt' 'Fear StandUpToBig' 'Ronald Reagan']
+Proyectos: []
+
+
+Comunidad 28:
+
+Organizaciones: ['snapshotsafari']
+Personas: ['Bruce Schulte' 'Hiren Khambhayta.' 'Indrajeet Thakur.']
+Proyectos: []
+
+
+Comunidad 29:
+
+Organizaciones: ['ARPA Marche' 'Aurora' 'CNR' 'CieloBuio']
+Personas: ['Anche Ultima' 'Associazione Venezia' 'Cercasi' 'Chiamando' 'Cithyd'
+ 'Kommenden Montag' 'Legambiente' 'Luca' 'Noi ci' 'Ora' 'Perri'
+ 'Vielen Dank']
+Proyectos: []
+
+
+Comunidad 30:
+
+Organizaciones: ['CabinFever' 'CornellBME SN_Lab' 'Fieldwork' 'LAPL' 'LAPublicLibrary'
+ 'LucyFortson' 'Mac?can' 'NASA' 'NIH' 'NSF'
+ 'Peter C. Meinig School of Biomedical Engineering' 'SciStarter'
+ 'StallCatchers' 'UCF' 'the SmartFin & SeaFox']
+Personas: ['Arieloquent' 'Badstallsbadbad' 'CabinFever' 'James Dinneen'
+ 'Michael Wittberger' 'Nancy E.' 'Percy' 'Peter Bresnahan']
+Proyectos: []
+
+
+Comunidad 31:
+
+Organizaciones: ['EarlRudderMS GT' 'GLSP' 'NSW' 'National Waterbug Blitz'
+ 'Open The Waterbug App' 'TaxonExped' 'The Waterbug App' 'Twitter'
+ 'Vic & SA' 'Waterbug Blitz' 'a Waterbug Blitz' 'frog'
+ 'the Family & Genus' 'the Waterbug App']
+Personas: ['Baetidae' 'Bibron' 'Cecil Ellis' 'EawagResearch' 'Greg' 'Hollie'
+ 'John Gooderham' 'Lestidae' 'Nathan Varley' 'Ranger Craig' 'Waterbug']
+Proyectos: []
+
+
+Comunidad 32:
+
+Organizaciones: ['Academisch' 'EU' 'MacDara Flavin' 'RETHINKscicomm' 'UCL_ISH'
+ 'bristolmuseum & WeCount' 'swords in dublin ireland']
+Personas: ['Aime Wood' 'Floss Gibson' 'Jeffrey' 'Kaart' 'Roe' 'WeCount']
+Proyectos: ['A Citizen Science project']
+
+
+Comunidad 33:
+
+Organizaciones: ['BlueVentures' 'Curiosity_Films' 'Cutlers' 'DannaMooreOcean'
+ 'DiveAgainstDebris' 'EcoBlitz' 'Forbes' 'Global Operations'
+ 'InsideNatGeo Explorers' 'OceanScience' 'OurOcean'
+ 'Relax In Belize Daily News' 'UN' 'UNEP' 'Wildlife & biodiversity']
+Personas: ['Coronalitter' 'DannaMoore' 'Day' 'Dbu' 'DiveMahara' 'EcoBlitz'
+ 'HPragnell' 'Raasch' 'Schauen Sie']
+Proyectos: ['OurOcean International Coastal Cleanup + projectaware']
+
+
+Comunidad 34:
+
+Organizaciones: ['CSO communitys' 'Citizen Science Tahoe' 'ConnellMiller' 'JUST IN - NCC'
+ 'KeepTahoeBlue' 'NASA' 'STOTEN' 'iNaturalist' 'onstorm' 'westernuNTP']
+Personas: ['Bison' 'Gassy' 'vanwa']
+Proyectos: []
+
+
+Comunidad 35:
+
+Organizaciones: ['CitSciLab' 'Cumulu' 'Delft Meet Regen' 'Erfgoed Gezocht'
+ 'Ga aan de slag' 'Gezocht' 'Hoge en Lange Munte' 'Joint Research Center'
+ 'Samen Kennis' 'SamenMeten Burgerwetenschap' 'SmartUnLock' 'Telraam' 'UN'
+ 'Vandaag' 'Vlaamse' 'WUR' 'techniek & innovatie']
+Personas: ['Bekijk hier de zeven' 'Ben' 'Bf \\n BurgerWetenschap' 'Bij'
+ 'Boswachter Henk Ruseler' 'Detektie van grafheuvels' 'Erfgoed Gezocht'
+ 'Erfgoed Gezocht Junior' 'Gezocht' 'Iedereen_W'
+ 'Ken je https://t.co/UnB6I13OWG' 'Kiekjes' 'Kijk TIP' 'Kijk dan' 'LoRa'
+ 'Meer' 'Met Telraam' 'Milieu en asnbank' 'NatuurenMilieu asnbank'
+ 'Plantentuin' 'Proficiat Kwinten Delrue' 'Quentin Bourgeois'
+ 'Samen Meten' 'Stadgent' 'Telraam' 'Telraamdata' 'Welkom Gemeente' 'Wie'
+ 'gelderseEinsteinweek' 'krant wetenschap' 'scivil.vlaanderen']
+Proyectos: []
+
+
+Comunidad 36:
+
+Organizaciones: ['AucklandUni' 'AucklandUni and gnsscience' 'COMETAuckland' 'COVID'
+ 'DustSafeStudy' 'GDARnetwork' 'MME' 'MQEarthEnv' 'Macquarie' 'MapMyEnv'
+ 'Midden Minders' 'RLS' 'SouthSci' 'UNESCO'
+ 'the Chemistry of Auckland Project' 'urbanhealth']
+Personas: ['Alice Kelley' 'Daumen sind gedrückt']
+Proyectos: ['the Chemistry of Auckland Project']
+
+
+Comunidad 37:
+
+Organizaciones: ['ENE' 'Lees over de plannen' 'NNE' 'NNW' 'SSE' 'Samen Kennis'
+ 'SamenMeten Burgerwetenschap' 'SonicKayaks' 'WNW' 'WSW']
+Personas: ['Actief bezig' 'Bhoa' 'De jaarwisseling' 'Elpt' 'Frmc4f' 'Gihdpt' 'Hur'
+ 'Johan' 'Kqoe' 'Kry' 'LeonMeijer' 'Lhog5' 'LoRa' 'Oldeberkoop' 'Pewr'
+ 'Samen Meten' 'Ughp' 'Uje' 'Vlhn' 'Ybe' 'Ygt' 'Zdl' 'Zwu4t'
+ 'fijnstof Nijenoord Allee' 'horsten' 'nebogeo']
+Proyectos: []
+
+
+Comunidad 38:
+
+Organizaciones: ['NASA' 'Riktar']
+Personas: ['Analys av fynddata' 'Dick Kasperowski' 'Förra' 'Hans 1:a'
+ 'Johan Björklund' 'Kul' 'Ladda ned _SLU' 'Mario Quadros'
+ 'Susanne Iwarsson']
+Proyectos: []
+
+
+Comunidad 39:
+
+Organizaciones: ['CoastSnap' 'CoastSnap Delaware' 'CoastSnapInverloch' 'CoastSnapNarra'
+ 'CoastSnapStockton citizenscience' 'Facebook' 'NOAA' 'STOTEN'
+ 'Smartbeach' 'Snap CoastsnapMOZ' 'Stockton' 'Stonehaven' 'StonehavenSnap'
+ 'abcnews' 'coastal erosion' 'coastsnap']
+Personas: ['Bethan' 'Bill' 'Claire' 'Dennis' 'Fluves' 'Ilha de Moçambique' 'MD'
+ 'Martin' 'Murray' 'Niki' 'Patricia' 'SarahADickinson' 'Stadaan' 'Stephen'
+ 'Stonehaven' 'StormCiara' 'Tracey' 'coastsnapper Simone']
+Proyectos: []
+
+
+Comunidad 40:
+
+Organizaciones: ['Innovation' 'the Solar System']
+Personas: []
+Proyectos: []
+
+
+Comunidad 41:
+
+Organizaciones: ['CESRamonyCajal Granada' 'COSTcitsci' 'COSTprogramme' 'CSP'
+ 'CienciaiConvivencia' 'Dros' 'DrosEU' 'EU' 'IGCiencia' 'LCATMon'
+ 'MelanogasterCTF' 'MelanogasterCTM' 'crossCOSTcitsci' 'melanogasterCTF'
+ 'the IGCiencia Lisboa' 'the jgi Community Science Program'
+ 'the mfnberlin Museum']
+Personas: ['Carmen Arboledas' 'DmasI Zaragoza' 'Gaurav Chauhan' 'Irene']
+Proyectos: ['COSTprogramme' 'the jgi Community Science Program']
+
+
+Comunidad 42:
+
+Organizaciones: []
+Personas: ['Dnia meteorologia']
+Proyectos: []
+
+
+Comunidad 43:
+
+Organizaciones: ['State' 'USCIS' 'teachers']
+Personas: ['FalguniThinks' 'Jennifer Gabrys']
+Proyectos: []
+
+
+Comunidad 44:
+
+Organizaciones: ['CDC' 'CITiZEN' 'Co9Productions' 'KingCorona' 'LiarInChief'
+ 'Scientific Establishment' 'Twitter']
+Personas: ['RealS0s']
+Proyectos: []
+
+
+Comunidad 45:
+
+Organizaciones: ['General assembly' 'Instagram' 'Mozzie Monitors' 'NHM Wien-Paläontologe'
+ 'omi_bern' 'pwa_zurich']
+Personas: ['Daten' 'Neuigkeiten von Manuel Meyer' 'Unser 4ter'
+ 'Viel Spaß beim lesen' 'Wenkersätz' 'Windstärke' 'Wolken'
+ 'von Windrichtung']
+Proyectos: []
+
+
+Comunidad 46:
+
+Organizaciones: ['CommunityCEPF' 'Fitbit' 'GEF_SGP' 'Garmin' 'TurtleProject'
+ '_BrightFocus &' 'the EizaguirreLab']
+Personas: ['Kim Christie' 'Ramesh Wilson' 'Sarita']
+Proyectos: ['TurtleProject']
+
+
+Comunidad 47:
+
+Organizaciones: ['Dauphine' 'Lyon RGCS2020' 'New RGCS' 'OWEE' 'RGCS'
+ '\\n Our open network' 'the Research Group']
+Personas: ['Amélie Bohas' 'Chiara' 'Chiara Tagliaro' 'Viktoria Heinzel'
+ 'Viktoria Pepler' 'Wa3ngz']
+Proyectos: []
+
+
+Comunidad 48:
+
+Organizaciones: ['Infos' 'Kommentare und Gastbeiträge' 'MINT-Lehrkräfte' 'Materialien'
+ 'NHM Wien-Paläontologe' 'Schönes Beispiel']
+Personas: ['Anke' 'Anspruch und Bedeutung' 'Bildung' 'Materialien'
+ 'Rahmen von ethik' 'Schickt mir eure' 'TEDxMuenster' 'Unterricht'
+ 'Von 24.-27' 'Wachau' 'ZxzSdn' 'lernen']
+Proyectos: []
+
+
+Comunidad 49:
+
+Organizaciones: ['ABSA' 'ARPA Marche' 'Beckton Globe Library' 'Citizens of Analco II'
+ 'Citizens of Misson' 'Citizens of San Lorenzo' 'D-Noses' 'DNoses'
+ 'Dnoses' 'EU' 'EU Citizen Science Newsletter' 'Kampala DNOSES' 'NASEM'
+ 'Odour Citizen Science Projects' 'OdourObservatory' 'Odourcollect'
+ 'Palmerston North City Council' 'Petroleum Services' 'RAW Labs'
+ 'Royal Docks' 'The International Solid Waste Association'
+ 'The Sofia Pilot' 'Worksafe' 'nuisance'
+ 'the Citizen Science Cluster Workshop' 'the City Council'
+ 'the Ministry of Environment and Water'
+ 'the Scottish Environmental Agency' 'the Sofia Municipality']
+Personas: ['Louise Francis ?' 'Mapping4']
+Proyectos: ['Odour Citizen Science Projects']
+
+
+Comunidad 50:
+
+Organizaciones: ['FTTI' 'Journey North' 'Kudat Turtle Conservation Society' 'Pramod CL'
+ 'Rare Plants' 'TurtleSAT - Turtle Survey' 'WDNR' 'WisConservation'
+ 'the Monarch Larva Monitoring Project' 'the Wisconsin Bumble Bee Brigade']
+Personas: ['Anup A. Kulkarni' 'Day' 'Joshua Mayer' 'Kunal Jain' 'Manojit'
+ 'NationalPollinator' 'Pradhyumna Acharya' 'Shachi Pandey'
+ 'Shivsharan Trasi' 'Uday Mondal' 'Vijay Anand Ismavel']
+Proyectos: ['the Monarch Larva Monitoring Project']
+
+
+Comunidad 51:
+
+Organizaciones: ['Al final de la semana' 'El ClubAnfora' 'El IEOoceanografia']
+Personas: ['Biodiversidad Marina y Ciencia Ciudadana' 'ClubAnfora'
+ 'Lee la entrevista' 'Llegó el día' 'Ml LifeIntemares' 'UrsB']
+Proyectos: []
+
+
+Comunidad 52:
+
+Organizaciones: ['Taylor & Francis Online']
+Personas: []
+Proyectos: []
+
+
+Comunidad 53:
+
+Organizaciones: ['CC Spencer' 'Citizen Science and Service' 'EarthDay']
+Personas: ['Andrea Marshall' 'CH Harrison' 'Komodo' 'QueenofMantas' 'Raja Ampat'
+ 'This Bite-Sized']
+Proyectos: []
+
+
+Comunidad 54:
+
+Organizaciones: ['Borderlands Science' 'CCPGames' 'EFA_Patients' 'HumanExposome Network'
+ 'InvisionGameCom' 'MME' 'gearbox' 'waldispuhl']
+Personas: ['Panagiotis Chaslaridis' 'Pmvcs' 'Trai']
+Proyectos: []
+
+
+Comunidad 55:
+
+Organizaciones: ['Enrich Europe' 'EnrichEuropeana' 'Europeanaeu' 'Region Dolny'
+ 'Transcribathon' 'transcribe']
+Personas: []
+Proyectos: []
+
+
+Comunidad 56:
+
+Organizaciones: ['Ailanthus Webworm Moth' 'Baltimore Oriole' 'Budgerigar'
+ 'Community Science' 'Dekay?s Brownsnake' 'Dryad?s Saddle (Cerioporus'
+ 'Eastern Cicada' 'Fort Tryon Park: Biodiversity and Ecology' 'Icterus'
+ 'LaraMangravite' 'Melopsittacus' 'NASA' 'No News' 'ORION_opensci' 'POC'
+ 'Scolia' 'Setophaga' 'Sphecius' 'Storeria'
+ 'The MonarchWatch Tagging Program' 'TheWCS' 'Union'
+ 'UrbanEcology & conservation' 'VirtSoc' 'Wasp' 'Western Honey Bee'
+ 'White-crowned Sparrow' 'Wild Turkey' 'Zonotrichia'
+ 'iNaturalist Fort Tryon Park Project'
+ 'the Community Science and Data Center NOIRLabAstro']
+Personas: ['Aurorasaurus' 'Corina Newsome' 'Dara' 'Dara Norman' 'Princess Tree'
+ 'Sagebio' 'Sarah' 'Schell' 'Yellow Warbler']
+Proyectos: ['The MonarchWatch Tagging Program' 'iNaturalist Fort Tryon Park Project']
+
+
+Comunidad 57:
+
+Organizaciones: ['Astro Ecology' 'BBC Wildlife' 'CW' 'Capture Our Coast' 'EU' 'GCRF'
+ 'Hurstbourne Tarrant Community' 'LeedsPsyc University'
+ 'Liverpool John Moore University' 'Liverpool John Moores University'
+ 'National Science Week' 'ORCA' 'REEF' 'STEM News' 'STFC' 'ScienceWeekUK'
+ 'SocialDistancing & SelfIsolation'
+ 'The Geospatial Design of Energy Systems' 'The Rock Pool Project'
+ 'UKRI_News' 'the Citizen Science Project' 'the University of Exeter']
+Personas: ['Ben Holt' 'Bzzzz' 'CitScimonth' 'Claire Burke' 'Goodall' 'Rob']
+Proyectos: ['Project Finder' 'The Rock Pool Project' 'the Citizen Science Project']
+
+
+Comunidad 58:
+
+Organizaciones: ['EU' 'PericlesProject' 'citizensREINFORCEscience' 'incubadorave' 'retina']
+Personas: ['KissingBugs']
+Proyectos: ['PericlesProject']
+
+
+Comunidad 59:
+
+Organizaciones: ['Depot' 'Neu gelernt']
+Personas: ['Gerne' 'RArlinghausFish' 'Robert Arlinghaus' 'Zweck']
+Proyectos: []
+
+
+Comunidad 60:
+
+Organizaciones: ['music' 'musicenthusiast']
+Personas: []
+Proyectos: []
+
+
+Comunidad 61:
+
+Organizaciones: ['La Estrella']
+Personas: ['Kim Stanley Robinson']
+Proyectos: []
+
+
+Comunidad 62:
+
+Organizaciones: ['Citizen Scientists' 'GCAGATGCAATG' 'IssraBul'
+ 'Microbiologists and Citizen Scientists' 'UK_CEH'
+ 'jenmgshe SummerSoilstice' 'the Times of India']
+Personas: ['Bash' 'Bug' 'George Ashton']
+Proyectos: []
+
+
+Comunidad 63:
+
+Organizaciones: ['SciStarter']
+Personas: ['Thomas Jefferson' 'schnekser']
+Proyectos: []
+
+
+Comunidad 64:
+
+Organizaciones: ['Ableweb' 'Electrodynamics']
+Personas: ['Anna' 'Ellen Rathbone']
+Proyectos: []
+
+
+Comunidad 65:
+
+Organizaciones: []
+Personas: ['Gerhard Dapprich']
+Proyectos: []
+
+
+Comunidad 66:
+
+Organizaciones: ['Citizen Science Group' 'Community Nature Reserve' 'Feral Pigeon'
+ 'Natures' 'Our Citizen Science Group' 'RSPB'
+ 'the Felixstowe Citizen Science Group' 'the Museum of Life and Science']
+Personas: ['Craven' 'Steven Ward SWARD34']
+Proyectos: []
+
+
+Comunidad 67:
+
+Organizaciones: ['CS' 'Data/MetaData Working Group' 'Fecha' 'MDaskolia'
+ 'The National Map Corps']
+Personas: ['A. Senthil Kumar' 'Alessandro Zacchera' 'Arnold J. H. Van Vliet'
+ 'Bianca Schoen-Phelan' 'Ellen-Wien Augustijn' 'Gavin McArdle'
+ 'Hamed Mehdipoor' 'Maria Daskolia' 'Murat Durmaz' 'Raul Zurita-Milla'
+ 'Sameer Saran' 'Sultan Kocaman']
+Proyectos: []
+
+
+Comunidad 68:
+
+Organizaciones: ['Beachwatch' 'HubbsResearch' 'NASA' 'UpstreamBattle Anchor Groups'
+ 'beachclean & citizenscience' 'missionbayhigh']
+Personas: ['Dougie' 'MacCraic' 'Sheila']
+Proyectos: []
+
+
+Comunidad 69:
+
+Organizaciones: ['Agricultural Water Stewardship' 'Chelsea' 'DataStream' 'LWCBMN'
+ 'Lake Winnipeg Community-Based Monitoring Network'
+ 'The Lake Winnipeg Community-Based Monitoring Network' 'Verizon'
+ 'VolunteerWeek'
+ 'the LakeWinnipeg Community-Based Monitoring Network Gathering' 'water']
+Personas: ['C. Artuso' 'Chelsea']
+Proyectos: []
+
+
+Comunidad 70:
+
+Organizaciones: ['EctorCountyISD' 'Foldscope' 'Project Learning Tree']
+Personas: []
+Proyectos: ['Project Learning Tree']
+
+
+Comunidad 71:
+
+Organizaciones: ['CT' 'TLGV']
+Personas: []
+Proyectos: []
+
+
+Comunidad 72:
+
+Organizaciones: ['El Estuario' 'La ciencia ciudadana en las Áreas'
+ 'La profesora de uniovi_info']
+Personas: ['Calidad de agua' 'Casa CitizenScience' 'Casa EstuarioResiliente'
+ 'Charla' 'Ciencia' 'Ciencia Ciudadana?' 'Day' 'Edith Belén Jiménez'
+ 'Hazte Ciudadano Científico' 'Olga García' 'Qha1u8e' 'de Censos']
+Proyectos: []
+
+
+Comunidad 73:
+
+Organizaciones: ['CitizenCyberLab' 'DFG-Projekt' 'Grundsätzlich' 'UZH_ch'
+ 'the University of Twente']
+Personas: ['Anna Cholinska' 'Anspruch und Bedeutung' 'Bei Schweiz'
+ 'Beitrag von Elise Tancoigne' 'Daniel Hegglin' 'Das Motto'
+ 'Die Biolog_innen' 'Die Teilnahme' 'Erste Schritte' 'Forschung'
+ 'Forschungsprozess' 'Frances Attwood' 'Lokalkolorit' 'Mai 2020' 'Mittag'
+ 'Raus aus dem Elfenbeinturm' 'Sandra Gloor' 'UZH_ch' 'Zeit' 'Zeitdehner'
+ 'Zeitfresser' 'Zwei PhD-Stellen' 'von Swild']
+Proyectos: []
+
+
+Comunidad 74:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 75:
+
+Organizaciones: ['Canadiens' 'De l?articulation' 'Visitez les Alpes Françaises']
+Personas: ['Chôros lemondefr']
+Proyectos: []
+
+
+Comunidad 76:
+
+Organizaciones: ['GlobalFishWatch' 'LeoDiCaprio Foundation' 'Mac' 'NASA' 'Netflix'
+ 'rescueareef']
+Personas: ['Cancilleria' 'Nico y Elisa']
+Proyectos: []
+
+
+Comunidad 77:
+
+Organizaciones: ['Mammalnet' 'SciStarter']
+Personas: ['Das kleine Rehkitz' 'Day' 'Erick Toussaint' 'Faith' 'Liebsten'
+ 'MothersDay' 'Viel Spaß!' 'Zuhause']
+Proyectos: []
+
+
+Comunidad 78:
+
+Organizaciones: ['Americans\xa0\xa0Pew Research Center' 'BBC' 'Orchids In Classrooms']
+Personas: ['Gaujean' 'IGreilhuber' 'Park' 'Walker']
+Proyectos: []
+
+
+Comunidad 79:
+
+Organizaciones: ['Taranto']
+Personas: ['Melucci Meravigliosa']
+Proyectos: []
+
+
+Comunidad 80:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 81:
+
+Organizaciones: ['NationalBirdDay' 'SciStarter' 'ShaverCreek' 'ShaversCreek']
+Personas: ['Barred Owl' 'Carita' 'Sarah Harrington' 'a Barred Owl']
+Proyectos: []
+
+
+Comunidad 82:
+
+Organizaciones: ['ASR' 'Cognicum' 'EIFFEL' 'GUI' 'LEVI9' 'Living Lekker'
+ 'Lymphoma Research' 'Rene van Rijnsoever' 'Swinckels' 'Vitality']
+Personas: ['Berry' 'Bibi' 'Gardenscape' 'Joost Kluiver' 'Jurriaan' 'Kitty' 'Percy'
+ 'Rene van Rijnsoeve' 'Tom']
+Proyectos: []
+
+
+Comunidad 83:
+
+Organizaciones: ['Accenture' 'Aqualink' 'BNHSIndia' 'Big Garden Birdwatch' 'Birdwatch'
+ 'Google' 'RSPB' 'SciStarter' 'SnapshotSafari' 'SwiftMapper'
+ 'Tech4Wildlife' 'Wren' 'drone' 'tech4' 'tech4wildlife'
+ 'the Footprint Identification Technique' 'the Natures'
+ 'the RSPB Big School']
+Personas: ['Blue Tit' 'Drew Gray' 'Join songofdodo' 'Louise' 'Puffarazzi' 'Robin'
+ 'Simon_Olney' 'Swift Mapper']
+Proyectos: []
+
+
+Comunidad 84:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 85:
+
+Organizaciones: ['AAS235' 'AAVSO' 'CH Cyg' 'Exoplanet Survey Satellite' 'NASA'
+ 'Planet Hunters Transiting Exoplanet Survey Satellite' 'TESS Sector 23'
+ 'XZ Cyg']
+Personas: ['Gordon Myers' 'Hans 1:a']
+Proyectos: []
+
+
+Comunidad 86:
+
+Organizaciones: ['CQuniversity stem' 'Far North Qld MangroveWatch'
+ 'Fitzroy Basin Association' 'RCA' 'Reef' 'Reef Life Trust'
+ 'Traditional Owners' 'Whitsundays Citizen Science' 'envirogov'
+ 'reefecologic' 'ted_ed & UNEP' 'the Australian Government']
+Personas: ['SCYC MangroveWatchers']
+Proyectos: []
+
+
+Comunidad 87:
+
+Organizaciones: []
+Personas: ['Moin']
+Proyectos: []
+
+
+Comunidad 88:
+
+Organizaciones: ['0 Ecoli...CP4' 'CA' 'CP4' 'Planetary Response Network' 'RewatLife'
+ 'UnswWater' 'WWFSouthAfrica' 'the British Hydrological Society'
+ 'the CitizenScience Project']
+Personas: ['Ann Cheeptham' 'LivingLakes' 'Rusty']
+Proyectos: ['the CitizenScience Project']
+
+
+Comunidad 89:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 90:
+
+Organizaciones: ['ArmchairArchaeology' 'SachsenAtWork' 'transcribathon & Sächs']
+Personas: ['Das Cheviot' 'Erster Themenblock' 'Erzählen' 'Machen' 'Uwe Berger']
+Proyectos: []
+
+
+Comunidad 91:
+
+Organizaciones: ['Koronavirus' 'London School of Hygiene & Tropical Medicine']
+Personas: ['Franca Sterleta' 'Franca Strleta' 'Hei Suomi' 'Vastuullisuus']
+Proyectos: []
+
+
+Comunidad 92:
+
+Organizaciones: ['Global Pulses Confederation' 'LovePulses'
+ 'the Pulses Cooking Times Citizen Science Project']
+Personas: ['Karen Cichy']
+Proyectos: ['the Pulses Cooking Times Citizen Science Project']
+
+
+Comunidad 93:
+
+Organizaciones: ['BigPharma' 'BillGates' 'CCP' 'CDC' 'CITiZEN' 'COVID19 TEAM'
+ 'Freedom Truth & Health' 'Harvard MA' 'MIT' 'PUBLIC'
+ 'Power Profit & Control' 'Science' 'Scientific Establishment'
+ 'The Center of the DeepStateExposed' 'The Path to Truth Freedom Health'
+ 'Twitter' 'US Senate' 'VITAMIN D' 'YouTube']
+Personas: ['BigPharma' 'Clinton' 'Fauci' 'FauciFraud' 'FireFauci' 'Gates' 'SHIVA'
+ 'Shiva' 'Trump firefauci' 'Zuckerberg']
+Proyectos: []
+
+
+Comunidad 94:
+
+Organizaciones: ['Joint Research Center' 'Onderzoek']
+Personas: ['Anna Berti Suman' 'Detektie van grafheuvels' 'Thomas Vergauwen']
+Proyectos: []
+
+
+Comunidad 95:
+
+Organizaciones: ['Jetzt' 'NHM Wien-Paläontologe']
+Personas: ['Bürgerwissenschaften' 'Frühjahr bis Herbst']
+Proyectos: []
+
+
+Comunidad 96:
+
+Organizaciones: ['Paralenz' 'Paralenz Turns Regular Divers']
+Personas: ['Strathy']
+Proyectos: []
+
+
+Comunidad 97:
+
+Organizaciones: ['LiMPETS' 'USCSeaGrant']
+Personas: []
+Proyectos: []
+
+
+Comunidad 98:
+
+Organizaciones: ['BCastagneyrol' 'COVID19' 'Env Ed Centers' 'Herbivory' 'Nature Centers'
+ 'Predation in Oaks' 'The Butterfly Migration APP'
+ 'TreeBodyguards CitizenScience'
+ 'Via the FondationBNPP & our ClimateBiodiversity Initiative']
+Personas: ['Jean-Marc Armand' 'Jonathan Gaudin']
+Proyectos: []
+
+
+Comunidad 99:
+
+Organizaciones: ['Eve Community' 'EveOnline' 'Flow Cytometry' 'eveonline']
+Personas: ['UNIMORE_univ' 'UtaWehn']
+Proyectos: ['Project Discovery' 'ProjectDiscovery']
+
+
+Comunidad 100:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 101:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 102:
+
+Organizaciones: ['CITiZEN' 'Evergreen/Everblue' 'MIT' 'Real Solutions'
+ 'Scientific Establishment' 'Shiva4Senate' 'Unite America']
+Personas: ['Ayyadurai' 'HouseForeign' 'SHIVA' 'SHIVA Ayyadurai' 'tedlieu']
+Proyectos: []
+
+
+Comunidad 103:
+
+Organizaciones: ['GeoDESA' 'Geospatial Design of Energy Systems' 'Google'
+ 'PowerToThePeople' 'PowerToThePeople on the_zooniverse' 'UKRI' 'drone']
+Personas: ['Razql']
+Proyectos: ['ProjectLeo']
+
+
+Comunidad 104:
+
+Organizaciones: ['CCP' 'CDC' 'CITiZEN' 'MA Senate' 'MIT' 'Real Solutions'
+ 'Scientific Establishment' 'Shiva4Senate'
+ 'The Path to Truth Freedom Health' 'US Senate' 'Unite America']
+Personas: ['Ayyadurai' 'BigPharma' 'Clinton' 'DSteinhardt' 'Fauci' 'FauciFraud'
+ 'FireFauci' 'Gates' 'Get?er' 'SHIVA' 'SHIVA Ayyadurai' 'Shiva'
+ 'Zuckerberg' 'va_shiva']
+Proyectos: []
+
+
+Comunidad 105:
+
+Organizaciones: ['Innen- und Außenwänden']
+Personas: ['Anna Luise Kiss' 'Auch Filmposter' 'Auf der Suche' 'Bis Sonntag' 'Dann'
+ 'Das Thalia' 'Das Ziel' 'Ein Beispiel' 'Ein Straßenschild' 'Einreichung'
+ 'Eure Funde' 'Filmische Objekte' 'Gesicht der Stadt'
+ 'Gesicht der Stadt Potsdam' 'Jetzt mitforschen' 'Kino' 'Mehr zum'
+ 'Sammlung von Filmplakaten' 'Von Potsdamer' 'fiwi scitsci']
+Proyectos: []
+
+
+Comunidad 106:
+
+Organizaciones: ['AI' 'CSP' 'CitizenScienceMonth' 'DirtySci Jessica Metcalf' 'IDB'
+ 'MIP Alumi Nicole Garneau (DocGarneau' 'NS' 'NationalSourdoughBreadDay'
+ 'NationalSourdoughBreadDay & CitSciMonth' 'Sourdough Science'
+ 'Today, SourdoughStarter' 'the CSU Microbiome Network'
+ 'the jgi Community Science Program']
+Personas: ['DrKerryane' 'Erin McKenney' 'Peregrine Bratschi' 'WildSourdough'
+ 'Woo-Hoo' 'Yrs5-10']
+Proyectos: ['the jgi Community Science Program']
+
+
+Comunidad 107:
+
+Organizaciones: ['OpenSci' 'PlackettLuce' 'UCSF' 'WHO']
+Personas: ['Kolie']
+Proyectos: []
+
+
+Comunidad 108:
+
+Organizaciones: ['CoCoRaHS']
+Personas: []
+Proyectos: []
+
+
+Comunidad 109:
+
+Organizaciones: ['ArnullJessica' 'BQRAP' 'BirdsCanada' 'BlueCarbonLab' 'CMAs'
+ 'Colorado Wetlands' 'Denver botanic' 'Frog Surveyors'
+ 'Great Lakes Marsh Monitoring Program' 'Green Frog'
+ 'Hobsons Bay Wetland Centre' 'MMPSurvey' 'Nanticoke OPG'
+ 'Ontario Nocturnal Owl Survey Newsletter' 'Ontario Owl Survey'
+ 'Owl Survey' 'OwlSurvey' 'ST'
+ 'the St. Lawrence River Institute of Environmental Sciences']
+Personas: ['BirdsCanada' 'Carolyn Milne' 'Coot' 'D. C. Tozer' 'Great Lakes' 'Karen'
+ 'O. Steele M. Gloutney' 'R. L.M. Stewart' 'Ryan Archer'
+ 'Sarah Midlane-Jones' 'Terry Sprague' 'Wayne Weller']
+Proyectos: ['Great Lakes Marsh Monitoring Program']
+
+
+Comunidad 110:
+
+Organizaciones: ['AlexFSansom' 'BaboolalLaura' 'IWC' 'monitoring wetlands & waterbirds'
+ 'raspishake CitizenScience']
+Personas: []
+Proyectos: []
+
+
+Comunidad 111:
+
+Organizaciones: ['Riktar']
+Personas: ['Zazdroszcz']
+Proyectos: []
+
+
+Comunidad 112:
+
+Organizaciones: ['Blackbird' 'Blue & Great Tit' 'Collared Dove' 'Shoresearch' 'SomersetWT'
+ 'Wood Pigeon']
+Personas: ['Crow' 'Magpie']
+Proyectos: []
+
+
+Comunidad 113:
+
+Organizaciones: ['15SecondScience' 'DESeaGrant' 'Delaware Reserve' 'Estuaries4Life'
+ 'NASAGO' 'Petrone' 'RECORDLRC']
+Personas: ['Chris' 'hannahkhwaja']
+Proyectos: []
+
+
+Comunidad 114:
+
+Organizaciones: ['AGP' 'Danone' 'DirtySci Jessica Metcalf'
+ 'MIP Alumi Nicole Garneau (DocGarneau' 'Microbiome' 'Milk & Microbes'
+ 'NS' 'SoCalCTSI' 'THDMI' 'UCSDMedSchool' 'UCSanDiego' 'aaasmtg'
+ 'americangut' 'gilbertjacka' 'the American Gut Project'
+ 'the CSU Microbiome Network']
+Personas: ['Garneau' 'Loon' 'Rob' 'Rob Knight' 'Smit']
+Proyectos: ['the American Gut Project']
+
+
+Comunidad 115:
+
+Organizaciones: ['Amazon' 'Background Removal' 'ERC' 'RT' 'SciStarter' 'Shopify Products'
+ 'amazon' 'eBay']
+Personas: ['Day metricon' 'Eisenman' 'Gary Mueller']
+Proyectos: []
+
+
+Comunidad 116:
+
+Organizaciones: ['3 Leibniz-Institute' 'Met Snapshot Hoge Veluwe'
+ 'covid19nl RIVM National Institute for Public Health']
+Personas: ['Der lbv_in' 'Jopinie' 'PatrickAJansen' 'Wie' 'Wollt'
+ 'Ziel der jlugiessen']
+Proyectos: []
+
+
+Comunidad 117:
+
+Organizaciones: ['Archiv' 'Einige Punkte aus dem Workshop CitizenScience'
+ 'Information & Anmeldung' 'Viele' 'Weitersagen' 'the DialogforumCS2020']
+Personas: ['Auch Citizen' 'Auch wir sind dabei' 'Carolin Johannsen' 'Diesen Freitag'
+ 'Gesa Baron' 'Medizin' 'Thorsten Klus' 'Toller Austausch'
+ 'Wie sichern wir den Bürgerwissenschaftler:innen']
+Proyectos: ['Programmierung']
+
+
+Comunidad 118:
+
+Organizaciones: ['Estonian National Archive' 'Liberty War']
+Personas: ['Ganz']
+Proyectos: []
+
+
+Comunidad 119:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 120:
+
+Organizaciones: []
+Personas: ['Cybelle']
+Proyectos: []
+
+
+Comunidad 121:
+
+Organizaciones: ['AtHome' 'Globe' 'LearnFromHome' 'NOIRLab']
+Personas: ['Connie Walker' 'Emily Peavy' 'Emily of Imiloa' 'Vu Nguyen']
+Proyectos: []
+
+
+Comunidad 122:
+
+Organizaciones: []
+Personas: ['lepakko helsinkiuni']
+Proyectos: []
+
+
+Comunidad 123:
+
+Organizaciones: []
+Personas: ['Casey' 'Casey Quinlan']
+Proyectos: []
+
+
+Comunidad 124:
+
+Organizaciones: []
+Personas: ['Ik heb de CORONA' 'Meer' 'Telraamdata']
+Proyectos: []
+
+
+Comunidad 125:
+
+Organizaciones: ['COVID19' 'CitizenSciAE' 'CitizenScienceAE' 'Corona Charting Foundation'
+ 'Directed Energy Research Centre' 'Electromagnetic Programs'
+ 'ForOurFrontliners' 'R&D' 'R&D for Acoustics Programs' 'SWAN' 'StayTuned'
+ 'Stichting Corona' 'TII' 'The Data Science Conference®'
+ 'The Technology Innovation Institute'
+ 'the Directed Energy Research Center'
+ 'the Directed Energy Research Centre'
+ 'the Technology Innovation Institute']
+Personas: ['Abdullah Al Ali' 'Chaouki Kasmi' 'Felix Vega' 'Foldit' 'Hamad Alyahyaee'
+ 'Hasan Al Hammadi' 'InKaart citizenscience' 'Juan Galvis'
+ 'Milosch Meriac' 'Mohammed Al Kaabi' 'Mohammed Al Yousuf'
+ 'Shehab Al Dahman']
+Proyectos: ['Electromagnetic Programs' 'R&D for Acoustics Programs']
+
+
+Comunidad 126:
+
+Organizaciones: []
+Personas: ['Ergebnisse' 'Iedereen_W']
+Proyectos: []
+
+
+Comunidad 127:
+
+Organizaciones: ['ACTION Accelerator' 'BIOPLASTIC & ONLINE' 'Bioplastics & Online'
+ 'BitLabCat' 'InMyBackyard' 'SonicKayaks' 'UniExeCornwall']
+Personas: ['Annelli' 'Nabolagshager' 'ZxeabJ' 'nebogeo']
+Proyectos: []
+
+
+Comunidad 128:
+
+Organizaciones: ['Blooms of BlueGreenAlgae' 'BlueGreenAlgae'
+ 'Izzy & Scottish_FwGrp CS Action Team' 'Latest News' 'SFG'
+ 'UK_CEH BloominAlgae']
+Personas: ['FwGrp']
+Proyectos: []
+
+
+Comunidad 129:
+
+Organizaciones: ['Foldit' 'Science Friday FB' 'UNSWScience' 'citizenchem'
+ 'the Radon Home Survey Project']
+Personas: ['Erin Roger']
+Proyectos: ['the Radon Home Survey Project']
+
+
+Comunidad 130:
+
+Organizaciones: []
+Personas: ['Casa']
+Proyectos: []
+
+
+Comunidad 131:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 132:
+
+Organizaciones: ['Helmuth Lab' 'museumofscience']
+Personas: []
+Proyectos: []
+
+
+Comunidad 133:
+
+Organizaciones: ['a Citizen Science Project']
+Personas: []
+Proyectos: ['Project Discovery' 'a Citizen Science Project']
+
+
+Comunidad 134:
+
+Organizaciones: []
+Personas: ['Frank Timmers.' 'Meer dan 70' 'Paul Berkhout' 'krant wetenschap']
+Proyectos: []
+
+
+Comunidad 135:
+
+Organizaciones: ['BBC' 'OpenUniversity' 'Panofsky & Donovan' 'The Micrographic Dictionary'
+ 'Zooniverse']
+Personas: ['Allan Jones' 'Andrew Pritchard' 'J. W. Griffith']
+Proyectos: []
+
+
+Comunidad 136:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 137:
+
+Organizaciones: ['Escape Rooms' 'Ozobots' 'the Mighty Peace Teachers']
+Personas: []
+Proyectos: []
+
+
+Comunidad 138:
+
+Organizaciones: ['Facebook' 'Mare' 'UNEP']
+Personas: ['Floss Gibson' 'Il 20 maggio']
+Proyectos: []
+
+
+Comunidad 139:
+
+Organizaciones: ['AGU' 'AGU Journals' 'PublicHealth']
+Personas: ['Ana Rappold' 'Arthur S. Flemming' 'Rappold']
+Proyectos: []
+
+
+Comunidad 140:
+
+Organizaciones: ['BBC Travel' 'Botanical Roots']
+Personas: ['Corbeau' 'Hymenaea' 'Sarah-Lee' 'Stinking Toe']
+Proyectos: []
+
+
+Comunidad 141:
+
+Organizaciones: ['PAGameComm' 'PymatuningStatePark' 'Sandhillcranes']
+Personas: []
+Proyectos: []
+
+
+Comunidad 142:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 143:
+
+Organizaciones: ['Cannon, Flemming' 'Harvard' 'StarNotes' 'Zooniverse'
+ 'the Harvard Computers' 'the_zooniverse']
+Personas: ['Annie Jump Cannon' 'Henrietta Swan Leavitt' 'Leavitt'
+ 'Willamina Fleming' 'WilliaminaFleming']
+Proyectos: ['projectphaedra']
+
+
+Comunidad 144:
+
+Organizaciones: ['COVID-19 Citizen Science' 'JOGL' 'UC']
+Personas: ['all_isee']
+Proyectos: []
+
+
+Comunidad 145:
+
+Organizaciones: ['BirdLifeAustria' 'LIPU' 'Padova News']
+Personas: []
+Proyectos: []
+
+
+Comunidad 146:
+
+Organizaciones: ['Basso a Rialto' 'Join the RRI4real' 'RRI' 'THIS_Institute'
+ 'Travel Grant']
+Personas: []
+Proyectos: []
+
+
+Comunidad 147:
+
+Organizaciones: ['Académie des Sciences - Sylvestre Huet' 'Bienvenue' 'Café des Sciences'
+ 'Graine du jour : Sciences' 'La Ligue']
+Personas: ['Michel Blay' 'Olivier Le Gall' 'Pierre Corvol' 'Voeux de BrunoDavidMNHN']
+Proyectos: []
+
+
+Comunidad 148:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 149:
+
+Organizaciones: ['0 Ecoli...CP4' 'CP4']
+Personas: ['Dit' 'Rusty' 'ableg abed stse']
+Proyectos: []
+
+
+Comunidad 150:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 151:
+
+Organizaciones: []
+Personas: ['Querida']
+Proyectos: []
+
+
+Comunidad 152:
+
+Organizaciones: ['Interessierte bei der Auftaktveranstaltung des AiA-Projektes']
+Personas: []
+Proyectos: []
+
+
+Comunidad 153:
+
+Organizaciones: ['Biology20']
+Personas: []
+Proyectos: []
+
+
+Comunidad 154:
+
+Organizaciones: ['Appledore' 'Bell Beach Biology' 'Platform' 'UKRI_News' 'the thembauk &'
+ 'thembauk']
+Personas: ['Jan Steele']
+Proyectos: []
+
+
+Comunidad 155:
+
+Organizaciones: ['National Archives' 'Reynolds / The National Archives']
+Personas: ['Chris' 'Das Hessische' 'Wichtige Fragen von Jana Hoffmann']
+Proyectos: []
+
+
+Comunidad 156:
+
+Organizaciones: ['Bluetts Block' 'BritainBreathing' 'Cymbopogon']
+Personas: ['Panagiotis Chaslaridis' 'Vanessa']
+Proyectos: []
+
+
+Comunidad 157:
+
+Organizaciones: []
+Personas: ['avointieto linnut kansalaistiede']
+Proyectos: []
+
+
+Comunidad 158:
+
+Organizaciones: ['BarrierTrackerTuesday' 'Facebook']
+Personas: []
+Proyectos: []
+
+
+Comunidad 159:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 160:
+
+Organizaciones: ['Bund Projekt' 'Einfach']
+Personas: ['Direktor Prof' 'Erdreich' 'Klaus Deimel' 'Vielleicht']
+Proyectos: []
+
+
+Comunidad 161:
+
+Organizaciones: ['Handy, Kreide und Flora_Incognita']
+Personas: ['Tolle Idee.' 'Zum Mitmachen']
+Proyectos: []
+
+
+Comunidad 162:
+
+Organizaciones: ['BBSbryology' 'BryophyteSurvey' 'RHS' 'slugscount' 'the ID Service'
+ 'this Black Oil Beetle']
+Personas: ['Jess']
+Proyectos: []
+
+
+Comunidad 163:
+
+Organizaciones: []
+Personas: ['Richard en Dimitri']
+Proyectos: []
+
+
+Comunidad 164:
+
+Organizaciones: ['EuP' 'katharinatpaul']
+Personas: ['DrEllenStu' 'T. Palfinger' 'Thomas Palfinger']
+Proyectos: []
+
+
+Comunidad 165:
+
+Organizaciones: ['La Campaña' 'incubadorave']
+Personas: []
+Proyectos: []
+
+
+Comunidad 166:
+
+Organizaciones: ['Flipgrid' 'JProTeach' 'SciStarter']
+Personas: []
+Proyectos: []
+
+
+Comunidad 167:
+
+Organizaciones: ['Assembly' 'PhilippVerpoort']
+Personas: ['Cambs']
+Proyectos: []
+
+
+Comunidad 168:
+
+Organizaciones: ['ASUL' 'CitSciDay' 'CitSciLib' 'Community Science Manager' 'FB' 'NHMLA'
+ 'NWFCalifornia' 'SLIME' 'SnailBlitz 2020'
+ 'a Community Science Coordinator' 'the Community Science Program'
+ 'the NHMLA' 'the NHMLA Community Science Program']
+Personas: ['Jann Vendetti' 'Korinna' 'Lila Higgins' 'Miguel Ordeñana' 'Rachel Arias']
+Proyectos: ['the Community Science Program' 'the NHMLA Community Science Program']
+
+
+Comunidad 169:
+
+Organizaciones: ['Freshwater Future' 'MDEnvironment' 'NGO Military Toxics Project'
+ 'NYNJCitizenScience NYNJCommunityScience' 'PFAS' 'Pellston School'
+ 'Surfrider' 'The Watershed Institute' 'UNC'
+ 'the NJ Vonunteer Water Monitoring Roundtable']
+Personas: ['Andrew George' 'Maya Dizack' 'a St. Mary']
+Proyectos: ['NGO Military Toxics Project']
+
+
+Comunidad 170:
+
+Organizaciones: ['SmartUnLock' 'design' 'techniek & innovatie']
+Personas: ['Lees']
+Proyectos: []
+
+
+Comunidad 171:
+
+Organizaciones: ['AarhusUni' 'Mange']
+Personas: []
+Proyectos: []
+
+
+Comunidad 172:
+
+Organizaciones: ['Robert-Koch-Instituts']
+Personas: ['Das rki' 'Daten' 'Füttert sie mit']
+Proyectos: []
+
+
+Comunidad 173:
+
+Organizaciones: ['DayofService' 'National Parks' 'NatlParkService']
+Personas: ['Jr.' 'MLK' 'Martin Luther King']
+Proyectos: []
+
+
+Comunidad 174:
+
+Organizaciones: ['CT' 'CoCoRaHS' 'MA' 'NWS']
+Personas: []
+Proyectos: []
+
+
+Comunidad 175:
+
+Organizaciones: ['NCState CitizenScience Campus']
+Personas: []
+Proyectos: []
+
+
+Comunidad 176:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 177:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 178:
+
+Organizaciones: ['AlineTalhouk' 'Brandeis']
+Personas: []
+Proyectos: []
+
+
+Comunidad 179:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 180:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 181:
+
+Organizaciones: ['MarineForum2020' 'SMASS2020' 'WiSe MasterClass' 'WiSeScheme']
+Personas: []
+Proyectos: []
+
+
+Comunidad 182:
+
+Organizaciones: ['Braganca' 'European Citizen Science' 'INSIGNIA' 'Insignia'
+ 'Plenaire Insignia' 'pollen']
+Personas: ['Flemming Vejsnæs' 'Sjef van der Steen']
+Proyectos: []
+
+
+Comunidad 183:
+
+Organizaciones: ['CUG Gandhinagar' 'VigyanPrasar' 'organic']
+Personas: ['B K Tyagi' 'Dean' 'Man Singh' 'Prof Man Singh']
+Proyectos: []
+
+
+Comunidad 184:
+
+Organizaciones: ['CitizenScience & MPAs' 'FBarazzetta' 'Follow MPAengage' 'June3'
+ 'MPAENGAGE' 'MPAEngage MEDProgramme' 'MPAengage' 'NaturalEngland & MCSUK'
+ 'ojeaelena']
+Personas: ['C.Cerrano' 'E. Azzurro' 'J.Garrabou']
+Proyectos: ['MPAEngage MEDProgramme']
+
+
+Comunidad 185:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 186:
+
+Organizaciones: []
+Personas: ['??SocialDistancing' 'Dann am besten' 'Das Projekt'
+ 'Das Projekt Fledermausforscher' 'VxuBh' 'einen Garten']
+Proyectos: []
+
+
+Comunidad 187:
+
+Organizaciones: ['Foldscope' 'Manu PrakashLab' 'NPRShortWave' 'prakashlab']
+Personas: []
+Proyectos: []
+
+
+Comunidad 188:
+
+Organizaciones: ['VA']
+Personas: []
+Proyectos: []
+
+
+Comunidad 189:
+
+Organizaciones: ['Stunde der Wintervögel']
+Personas: ['Bilder' 'Eine' 'Ergebnisse' 'Infos unter tvingolstadt'
+ 'Kleine Vogelkunde' 'Lieblingsvogel' 'Liebsten' 'Mai'
+ 'Nur noch bis heute' 'Stunde der Gartenvögel' 'StundeDerWintervögel'
+ 'Thema mit ?C' 'Viel Spaß!' 'Vögel']
+Proyectos: []
+
+
+Comunidad 190:
+
+Organizaciones: ['Cardinals' 'CoCoRaHS' 'NWS' 'SC']
+Personas: ['This Bite-Sized']
+Proyectos: []
+
+
+Comunidad 191:
+
+Organizaciones: ['Giant Panda' 'PacingPandas Project' 'Panda']
+Personas: []
+Proyectos: ['PacingPandas Project']
+
+
+Comunidad 192:
+
+Organizaciones: ['Community Science Centre' 'GUJCOST' 'International Museum Day'
+ 'ManavAtlas' 'ManavAtlas at Arts,Science & Commerce College'
+ 'Nisarg Community Science Center' 'ScientificLiterature'
+ 'ScientificLiterature & Introduction' 'UnivOfPune']
+Personas: ['vadodara gujarat']
+Proyectos: ['Project ManavAtlas']
+
+
+Comunidad 193:
+
+Organizaciones: ['Danone' 'Microbiome' 'THDMI' 'UCSanDiego']
+Personas: []
+Proyectos: []
+
+
+Comunidad 194:
+
+Organizaciones: []
+Personas: []
+Proyectos: []
+
+
+Comunidad 195:
+
+Organizaciones: []
+Personas: ['Adam Osbourne' 'Edward' 'Floss Gibson' 'Ian' 'John Coe?'
+ 'John Patrick Campbell' 'Micheal Pleasent' 'ORCireland']
+Proyectos: []
+
+
+Comunidad 196:
+
+Organizaciones: ['ATTD']
+Personas: ['Bethany Weisberg' 'Mike Kurisu' 'Org et al']
+Proyectos: []
+
+

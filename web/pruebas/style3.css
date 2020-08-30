@@ -1,0 +1,36 @@
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  width: 33,33%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 15px;
+}
+
+.header-section {
+	width: 50%;
+}
+
+
+/* Clear floats after image containers */
+.row {
+  display: flex;
+  padding: 25px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+div#pie div#pieBottom div#pieBottomAux p {
+    color: #fff;
+    padding: 2em 0;
+}
+
+
+
+
